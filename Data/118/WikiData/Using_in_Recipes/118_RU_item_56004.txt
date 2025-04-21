@@ -1,0 +1,11 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Racing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Attach Ribbon or Medal to Reins or Saddle || [[:Category:Items/ReinsOrSaddle|Reins or Saddle]] x1<br>[[:Category:Items/RacingRibbon|Racing Ribbon]] x1 || 
+|}
+Also can be used in any recipes which call for:
+*[[:Category:Items/Equipment|Pieces of Equipment]]

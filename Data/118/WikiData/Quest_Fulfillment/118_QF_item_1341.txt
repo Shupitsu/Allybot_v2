@@ -1,0 +1,10 @@
+===Quest Fulfillment===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Don't Forget the Egg]] || 1 (Loot)<br>1 (Collect) || One time only || [[Irkima]] || Friends || [[Red Wing Casino]] || 
+|}
+=====Work Order=====
+Turn in 5x [[Phoenix Egg]] to [[Ogamboe]] for 121040 councils. Requires [[Industry]] Level 60.

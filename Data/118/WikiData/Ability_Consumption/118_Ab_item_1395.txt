@@ -1,0 +1,66 @@
+====Ability Consumption====
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Icon !! Name !! Consumes !! Skill !! Level !! Consume Chance !! Stick Chance
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2199.png</span> || [[Raise Skeletal Archer]] || Necromancy Dust || [[Necromancy]] || 2 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2201.png</span> || [[Raise Skeletal Swordsman]] || Necromancy Dust || [[Necromancy]] || 7 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2200.png</span> || [[Raise Skeletal Battle Mage]] || Necromancy Dust x2 || [[Necromancy]] || 12 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3858.png</span> || [[Summon Doomstorm]] || Necromancy Dust || [[Weather Witching]] || 15 || 10% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2199.png</span> || [[Raise Skeletal Archer 2]] || Necromancy Dust || [[Necromancy]] || 18 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2201.png</span> || [[Raise Skeletal Swordsman 2]] || Necromancy Dust || [[Necromancy]] || 22 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3858.png</span> || [[Summon Doomstorm 2]] || Necromancy Dust || [[Weather Witching]] || 25 || 10% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2200.png</span> || [[Raise Skeletal Battle Mage 2]] || Necromancy Dust x2 || [[Necromancy]] || 28 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2199.png</span> || [[Raise Skeletal Archer 3]] || Necromancy Dust || [[Necromancy]] || 32 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2201.png</span> || [[Raise Skeletal Swordsman 3]] || Necromancy Dust || [[Necromancy]] || 38 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3858.png</span> || [[Summon Doomstorm 3]] || Necromancy Dust || [[Weather Witching]] || 40 || 10% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2200.png</span> || [[Raise Skeletal Battle Mage 3]] || Necromancy Dust x2 || [[Necromancy]] || 42 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2199.png</span> || [[Raise Skeletal Archer 4]] || Necromancy Dust || [[Necromancy]] || 47 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2201.png</span> || [[Raise Skeletal Swordsman 4]] || Necromancy Dust || [[Necromancy]] || 49 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2200.png</span> || [[Raise Skeletal Battle Mage 4]] || Necromancy Dust x2 || [[Necromancy]] || 53 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2199.png</span> || [[Raise Skeletal Archer 5]] || Necromancy Dust || [[Necromancy]] || 55 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3858.png</span> || [[Summon Doomstorm 4]] || Necromancy Dust || [[Weather Witching]] || 55 || 10% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2201.png</span> || [[Raise Skeletal Swordsman 5]] || Necromancy Dust || [[Necromancy]] || 58 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2200.png</span> || [[Raise Skeletal Battle Mage 5]] || Necromancy Dust x2 || [[Necromancy]] || 64 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2199.png</span> || [[Raise Skeletal Archer 6]] || Necromancy Dust || [[Necromancy]] || 67 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2201.png</span> || [[Raise Skeletal Swordsman 6]] || Necromancy Dust || [[Necromancy]] || 70 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3858.png</span> || [[Summon Doomstorm 5]] || Necromancy Dust || [[Weather Witching]] || 70 || 10% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2200.png</span> || [[Raise Skeletal Battle Mage 6]] || Necromancy Dust x2 || [[Necromancy]] || 75 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2199.png</span> || [[Raise Skeletal Archer 7]] || Necromancy Dust || [[Necromancy]] || 79 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2201.png</span> || [[Raise Skeletal Swordsman 7]] || Necromancy Dust || [[Necromancy]] || 81 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3858.png</span> || [[Summon Doomstorm 6]] || Necromancy Dust || [[Weather Witching]] || 85 || 10% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2200.png</span> || [[Raise Skeletal Battle Mage 7]] || Necromancy Dust x2 || [[Necromancy]] || 86 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2199.png</span> || [[Raise Skeletal Archer 8]] || Necromancy Dust || [[Necromancy]] || 91 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2201.png</span> || [[Raise Skeletal Swordsman 8]] || Necromancy Dust || [[Necromancy]] || 93 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3858.png</span> || [[Summon Doomstorm 7]] || Necromancy Dust || [[Weather Witching]] || 100 || 10% || Never
+|}

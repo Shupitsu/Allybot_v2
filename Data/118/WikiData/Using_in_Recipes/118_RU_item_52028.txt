@@ -1,0 +1,22 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Bowyery]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 90 || Awesome Faebow (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6626.png</span>&nbsp;[[Yew Wood]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5190.png</span>&nbsp;[[Hope Oil]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 35% &#010;">(!)</sup></span><br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5278.png</span>&nbsp;[[Whetstone]] x1<br>[[:Category:Items/Crystal|Crystal]] x1<br>[[:Category:Items/Crystal|Crystal]] x1<br>[[:Category:Items/EnergyBow|Faebow]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5289.png</span>&nbsp;[[Awesome Faebow]] x1
+|-
+| 93 || Awesome Faebow (Max-Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6626.png</span>&nbsp;[[Yew Wood]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5190.png</span>&nbsp;[[Hope Oil]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 35% &#010;">(!)</sup></span><br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5278.png</span>&nbsp;[[Whetstone]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5447.png</span>&nbsp;[[Maximized Emerald]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5702.png</span>&nbsp;[[Glowy Yellow Crystal]] x1<br>[[:Category:Items/Crystal|Crystal]] x1<br>[[:Category:Items/Crystal|Crystal]] x1<br>[[:Category:Items/EnergyBow|Faebow]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5289.png</span>&nbsp;[[Awesome Faebow]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Lore]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Apply Bow Tuneup Kit || [[:Category:Items/Bow|Bow]] x1<br>[[:Category:Items/BowTuneupKit|Bow Tuneup Kit]] x1 || 
+|-
+| 3 || Apply Bow Augment || [[:Category:Items/Bow|Bow]] x1<br>[[:Category:Items/OffHandAugment|Off-Hand Augment]] x1 || 
+|}
+Also can be used in any recipes which call for:
+*[[:Category:Items/Equipment|Pieces of Equipment]]
+*[[:Category:Items/OffHand|Items Wielded in the Off Hand]]

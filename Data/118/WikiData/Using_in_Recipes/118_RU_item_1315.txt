@@ -1,0 +1,63 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 25 || Strong Antivenom || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6215.png</span>&nbsp;[[Viper Fangs]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5894.png</span>&nbsp;[[Strong Antivenom]] x1
+|-
+| 50 || Bloodcharge Serum || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6581.png</span>&nbsp;[[Acur Blood]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5146.png</span>&nbsp;[[Blood Mushroom Suspension]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6215.png</span>&nbsp;[[Viper Fangs]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5789.png</span>&nbsp;[[Mummy Wrapping]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5158.png</span>&nbsp;[[Bloodcharge Serum]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Bladesmithing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 25 || Dagger Tuneup Kit: Critical Hit Damage 2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6215.png</span>&nbsp;[[Viper Fangs]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5417.png</span>&nbsp;[[Small Yellow Dragon Scale]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6588.png</span>&nbsp;[[Weapon Whetstone]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 2% &#010;">(!)</sup></span> || 
+|-
+| 25 || Dirk Tuneup Kit: Critical Hit Damage 2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6215.png</span>&nbsp;[[Viper Fangs]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5417.png</span>&nbsp;[[Small Yellow Dragon Scale]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6588.png</span>&nbsp;[[Weapon Whetstone]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 2% &#010;">(!)</sup></span> || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 2 || Turn Corpse Trophies Into Crystal Ice || [[:Category:Items/CorpseTrophy|Corpse Trophies]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Lore]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Beginner's Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x5<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Basic Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x1<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Advanced Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x3<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Expert Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x6<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Perceive Spawn Premonitions (2 secs) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Topaz]] x1<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || Perform a mind-altering ritual so that you can perceive newly-spawned monsters 2 seconds before they actually appear.<br>The effect does not wear off, but whenever you die there's a 5% chance that it will end.
+|-
+| 0 || Perceive Spawn Premonitions (4 secs) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Topaz]] x2<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || Perform a mind-altering ritual so that you can perceive newly-spawned monsters 4 seconds before they actually appear.<br>The effect does not wear off, but whenever you die there's a 5% chance that it will end.
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Shamanic Infusion]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 45 || Beginner's Viper Headgear Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5996.png</span>&nbsp;[[Snake Scales]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6215.png</span>&nbsp;[[Viper Fangs]] x1<br>[[:Category:Items/Head|Headgear]] x1 || Infuses a helmet or headgear with the following power: '''Ranged Accuracy Boost +8%'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 45.
+|-
+| 46 || Beginner's Viper Core Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6215.png</span>&nbsp;[[Viper Fangs]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5996.png</span>&nbsp;[[Snake Scales]] x1<br>[[:Category:Items/Chest|Shirt]] x1 || Infuses a chestplate or shirt with the following power: '''Burst Accuracy Boost +8%'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 46.
+|-
+| 47 || Beginner's Viper Hands Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6215.png</span>&nbsp;[[Viper Fangs]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5996.png</span>&nbsp;[[Snake Scales]] x2<br>[[:Category:Items/Hands|Gloves]] x1 || Infuses gloves or gauntlets with the following power: '''Melee Accuracy Boost +8%'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 47.
+|-
+| 50 || Novice's Viper Headgear Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5996.png</span>&nbsp;[[Snake Scales]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6215.png</span>&nbsp;[[Viper Fangs]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5995.png</span>&nbsp;[[Trophy Snake Skin]] x1<br>[[:Category:Items/Head|Headgear]] x1 || Infuses a helmet or headgear with the following power: '''Ranged Accuracy Boost +10%'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 50.
+|-
+| 51 || Novice's Viper Core Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6215.png</span>&nbsp;[[Viper Fangs]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5996.png</span>&nbsp;[[Snake Scales]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5995.png</span>&nbsp;[[Trophy Snake Skin]] x1<br>[[:Category:Items/Chest|Shirt]] x1 || Infuses a chestplate or shirt with the following power: '''Burst Accuracy Boost +10%'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 51.
+|-
+| 52 || Novice's Viper Hands Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6215.png</span>&nbsp;[[Viper Fangs]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5996.png</span>&nbsp;[[Snake Scales]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5995.png</span>&nbsp;[[Trophy Snake Skin]] x1<br>[[:Category:Items/Hands|Gloves]] x1 || Infuses gloves or gauntlets with the following power: '''Melee Accuracy Boost +10%'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 52.
+|-
+| 55 || Shaman's Viper Headgear Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5996.png</span>&nbsp;[[Snake Scales]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6215.png</span>&nbsp;[[Viper Fangs]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5995.png</span>&nbsp;[[Trophy Snake Skin]] x1<br>[[:Category:Items/Head|Headgear]] x1 || Infuses a helmet or headgear with the following power: '''Ranged Accuracy Boost +14%'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 55.
+|-
+| 56 || Shaman's Viper Core Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6215.png</span>&nbsp;[[Viper Fangs]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5996.png</span>&nbsp;[[Snake Scales]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5995.png</span>&nbsp;[[Trophy Snake Skin]] x1<br>[[:Category:Items/Chest|Shirt]] x1 || Infuses a chestplate or shirt with the following power: '''Burst Accuracy Boost +14%'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 56.
+|-
+| 57 || Shaman's Viper Hands Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6215.png</span>&nbsp;[[Viper Fangs]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5996.png</span>&nbsp;[[Snake Scales]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5995.png</span>&nbsp;[[Trophy Snake Skin]] x1<br>[[:Category:Items/Hands|Gloves]] x1 || Infuses gloves or gauntlets with the following power: '''Melee Accuracy Boost +14%'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 57.
+|}

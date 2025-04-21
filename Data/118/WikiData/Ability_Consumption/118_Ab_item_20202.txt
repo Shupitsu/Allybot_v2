@@ -1,0 +1,20 @@
+====Ability Consumption====
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Icon !! Name !! Consumes !! Skill !! Level !! Consume Chance !! Stick Chance
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3310.png</span> || [[Blitz Shot (Orc)]] || Beginner's Arrow (or better) || [[Archery]] || 1 || Always || 0%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3315.png</span> || [[Aimed Shot (Orc)]] || Beginner's Arrow (or better) || [[Archery]] || 4 || Always || 0%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3318.png</span> || [[Multishot (Orc)]] || Beginner's Arrow x5 (or better) || [[Archery]] || 8 || Always || 0%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3310.png</span> || [[Blitz Shot 2 (Orc)]] || Beginner's Arrow (or better) || [[Archery]] || 10 || Always || 0%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3315.png</span> || [[Aimed Shot 2 (Orc)]] || Basic Arrow (or better) || [[Archery]] || 18 || Always || 0%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3310.png</span> || [[Blitz Shot 3 (Orc)]] || Basic Arrow (or better) || [[Archery]] || 21 || Always || 0%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3318.png</span> || [[Multishot 2 (Orc)]] || Basic Arrow x5 (or better) || [[Archery]] || 23 || Always || 0%
+|}

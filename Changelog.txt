@@ -1,0 +1,21 @@
+V2 :
+    _JsonCacher.py
+        * line 48 add header variable
+        * line 58 : create req variable
+        * line 59 : change urllib.request.urlopen(url).read().decode('UTF-8')
+                    to urllib.request.urlopen(req).read().decode('UTF-8')
+
+        without using header, trying to get the json make an error 403 forbiden.
+
+    _FormatJsons.py
+        * add line 204 and 205. Without it, the file get an error item_O because it was searching for the id of item : NecromancerDustB
+
+    Generators/WikiItemFavorData.py
+        * add 3 lines :37-39 to debug. They are comment for now.
+
+    Generators/WikiItemQuestData.py
+        * add 4 lines : 25-29 to debug. They are comment for now.
+
+
+
+V1 : original version of allybot from Alleryn. Can get it on github : https://github.com/alleryn/ProjectGorgonWiki-AllyBot

@@ -1,0 +1,224 @@
+===Quest Rewards===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Acquired !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[An amazing new stool]] || style="text-align:center;" | 13 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[A great new stool]] || style="text-align:center;" | 11 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[An amazing new calligraphy bench]] || style="text-align:center;" | 13 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[A great new calligraphy bench]] || style="text-align:center;" | 11 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[An amazing new chair]] || style="text-align:center;" | 17 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[A great guest chair]] || style="text-align:center;" | 17 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[A great new storage solution]] || style="text-align:center;" | 14 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Artisanal hogsheads]] || style="text-align:center;" | 8 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[An amazing new cleaning stick]] || style="text-align:center;" | 9 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Basic Hammers]] || style="text-align:center;" | 5 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Tack Hammers]] || style="text-align:center;" | 8 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Fancy Hammers]] || style="text-align:center;" | 12 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Primitive Armor Stakes]] || style="text-align:center;" | 8 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Good Armor Stakes]] || style="text-align:center;" | 11 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Amazing Armor Stakes]] || style="text-align:center;" | 16 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Amazing Armor Patch Kits]] || style="text-align:center;" | 11 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Astounding Armor Patch Kits]] || style="text-align:center;" | 13 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Astounding Metal Slabs]] || style="text-align:center;" | 6 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Superb Metal Slabs]] || style="text-align:center;" | 8 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Marvelous Metal Slabs]] || style="text-align:center;" | 10 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Bilge Hoops]] || style="text-align:center;" | 4 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Shroom Feast Time]] || style="text-align:center;" | 5 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Fresh Orcish Onion Soup]] || style="text-align:center;" | 7 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Porcini Bites]] || style="text-align:center;" | 7 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Ruktagh_(Quest)]] || style="text-align:center;" | 5 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Cavefish Supper_(Quest)]] || style="text-align:center;" | 5 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Chicken Casserole_(Quest)]] || style="text-align:center;" | 7 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[A Delicious Stuffed Bell Pepper]] || style="text-align:center;" | 5 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Swamp Salad_(Quest)]] || style="text-align:center;" | 5 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Grilled Amberjack_(Quest)]] || style="text-align:center;" | 8 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Deluxe Beetle Skewer_(Quest)]] || style="text-align:center;" | 8 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Vexfish Lettuce Wraps_(Quest)]] || style="text-align:center;" | 9 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Maple Carrots_(Quest)]] || style="text-align:center;" | 6 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[A Crate of Oranges]] || style="text-align:center;" | 6 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Fresh Basil]] || style="text-align:center;" | 4 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Cantaloupe for Breakfast]] || style="text-align:center;" | 5 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Pungent Rennet_(Quest)]] || style="text-align:center;" | 5 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Spruce Wood Chips_(Quest)]] || style="text-align:center;" | 3 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Wool!]] || style="text-align:center;" | 3 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Cinnabar for Jewelry]] || style="text-align:center;" | 5 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Agates for Jewelry]] || style="text-align:center;" | 4 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Peaches, fresh ripe peaches]] || style="text-align:center;" | 6 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Bones For Inspection]] || style="text-align:center;" | 7 || One time only || [[Brugo the Wise]] || Unknown || TBD || 
+|-
+| [[More Bones For Inspection]] || style="text-align:center;" | 7 || 1 Hours || [[Brugo the Wise]] || Unknown || TBD || 
+|-
+| [[Time For a Smoke Break]] || style="text-align:center;" | 6 || One time only || [[Brugo the Wise]] || Unknown || TBD || 
+|-
+| [[A Kick In The Whiskers]] || style="text-align:center;" | 6 || One time only || [[Dachak the Digger]] || Unknown || Old Town in [[Povus]] || 
+|-
+| [[Fresh-Picked Death]] || style="text-align:center;" | 6 || One time only || [[Dachak the Digger]] || Unknown || Old Town in [[Povus]] || 
+|-
+| [[Only the Freshest Grizlark]] || style="text-align:center;" | 5 || One time only || [[Ferand Deftwhisper]] || Unknown || Old Town in [[Povus]] || 
+|-
+| [[More Grizlark!]] || style="text-align:center;" | 5 || 1 Days || [[Ferand Deftwhisper]] || Unknown || Old Town in [[Povus]] || 
+|-
+| [[Repurposing Old Fishing Nets]] || style="text-align:center;" | 3 || One time only || [[Leah Bowman]] || Unknown || Old Town in [[Povus]] || 
+|-
+| [[Fresh Tallow For The Bees]] || style="text-align:center;" | 5 || One time only || [[Leah Bowman]] || Unknown || Old Town in [[Povus]] || 
+|-
+| [[Brukal Must Die]] || style="text-align:center;" | 5 || One time only || [[Leah Bowman]] || Friends || Old Town in [[Povus]] || 
+|-
+| [[Tending To the Root-Tenders]] || style="text-align:center;" | 3 || One time only || [[Mope]] || Tolerated || TBD || 
+|-
+| [[Tending To the Root-Tenders]] || style="text-align:center;" | 3 || 1 Days || [[Mope]] || Tolerated || TBD || 
+|-
+| [[Exotic Varieties of Fungus]] || style="text-align:center;" | 3 || One time only || [[Mope]] || Unknown || TBD || 
+|-
+| [[Counter-Exterminate the Orcs]] || style="text-align:center;" | 3 || 10 Days || [[Mope]] || Friends || TBD || 
+|-
+| [[Recover Lost Fly Amanita]] || style="text-align:center;" | 3 || 10 Days || [[Mope]] || Friends || TBD || 
+|-
+| [[Stephie's Gorget]] || style="text-align:center;" | 6 || One time only || [[Tremmond Blackhammer]] || Neutral || Old Town in [[Povus]] || 
+|-
+| [[Parts For An Auto-Clamp]] || style="text-align:center;" | 10 || One time only || [[Tremmond Blackhammer]] || Neutral || Old Town in [[Povus]] || 
+|-
+| [[Auto-Clamp Safety Blanket]] || style="text-align:center;" | 10 || One time only || [[Tremmond Blackhammer]] || Neutral || Old Town in [[Povus]] || 
+|-
+| [[Secrets of Orcish Armor (part 1)]] || style="text-align:center;" | 1 || One time only || [[Tremmond Blackhammer]] || Friends || Old Town in [[Povus]] || 
+|-
+| [[Secrets of Orcish Armor (part 2)]] || style="text-align:center;" | 1 || One time only || [[Tremmond Blackhammer]] || Friends || Old Town in [[Povus]] || 
+|-
+| [[Ghouls from the Hole]] || style="text-align:center;" | 5 || One time only || [[Sir Taggart]] || Unknown || South-Central Council Camp. || 
+|-
+| [[Hole Bulwarks]] || style="text-align:center;" | 5 || One time only || [[Sir Taggart]] || Unknown || South-Central Council Camp. || 
+|-
+| [[Fire and Darkness From the Hole]] || style="text-align:center;" | 5 || One time only || [[Sir Taggart]] || Comfortable || South-Central Council Camp. || 
+|-
+| [[Demonic Gems]] || style="text-align:center;" | 25 || One time only || [[Liamu the Watchful]] || Unknown || North of the manticore fields. || 
+|-
+| [[Spectracite_(Quest)]] || style="text-align:center;" | 25 || One time only || [[Liamu the Watchful]] || Unknown || North of the manticore fields. || 
+|-
+| [[Forthragarian Aetherite_(Quest)]] || style="text-align:center;" | 25 || One time only || [[Liamu the Watchful]] || Unknown || North of the manticore fields. || 
+|-
+| [[Testing Your Demon-Killing Mettle]] || style="text-align:center;" | 5 || One time only || [[Ser Lorentz]] || Unknown || Near the Teleportation Circle. || 
+|-
+| [[Swarmer Brains]] || style="text-align:center;" | 5 || One time only || [[Ser Lorentz]] || Unknown || Near the Teleportation Circle. || 
+|-
+| [[Flapskull Blood]] || style="text-align:center;" | 5 || One time only || [[Ser Lorentz]] || Unknown || Near the Teleportation Circle. || 
+|-
+| [[Crystal Mobility Analysis]] || style="text-align:center;" | 5 || One time only || [[Ferris Blueheart]] || Unknown || [[Western Council Camp]] || 
+|-
+| [[Fluxic Quartz_(Quest)]] || style="text-align:center;" | 5 || One time only || [[Ferris Blueheart]] || Unknown || [[Western Council Camp]] || 
+|-
+| [[The Swarmer Hypothesis]] || style="text-align:center;" | 5 || One time only || [[Ferris Blueheart]] || Unknown || [[Western Council Camp]] || 
+|-
+| [[Infernal Recipes]] || style="text-align:center;" | 5 || One time only || [[Drummond Stonecurl]] || Friends || unknow || 
+|-
+| [[Staying Informed about Infernal Recipes]] || style="text-align:center;" | 5 || 7 Days || [[Drummond Stonecurl]] || Friends || unknow || 
+|-
+| [[Harvest Event: Tofurkey!]] || style="text-align:center;" | 10 || 60 Days || [[Kelim]] || Unknown || Amulna in [[Ilmari]] || 
+|-
+| [[Harvest Event: Torfurkey Gravy]] || style="text-align:center;" | 11 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Harvest Event: Lemon-Glazed Tofurkey]] || style="text-align:center;" | 12 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Harvest Event: Tofurkey with Cranberry Sauce]] || style="text-align:center;" | 13 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Harvest Event: Tofurkey Veggie Loaf]] || style="text-align:center;" | 15 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Harvest Event: Cranberry-Glazed "Meatballs"]] || style="text-align:center;" | 12 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Harvest Event: Tofu Pumpkin Kebab]] || style="text-align:center;" | 12 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Harvest Event: Pumpkin Hummus]] || style="text-align:center;" | 8 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Wanted: Kill Aktaari Hall Monitors]] || style="text-align:center;" | 1 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Wanted: Kill Aktaari Swarmlings]] || style="text-align:center;" | 1 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Wanted: Kill Aktaari Swarmers]] || style="text-align:center;" | 2 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Wanted: Kill Aktaari Workers (Group)]] || style="text-align:center;" | 5 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Wanted: Kill Big Gricklings]] || style="text-align:center;" | 3 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Wanted: Kill Cave Lamia (Group)]] || style="text-align:center;" | 4 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Wanted: Kill Deep Sadness Gazelles]] || style="text-align:center;" | 2 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Wanted: Kill Frozen Cave Elementals]] || style="text-align:center;" | 2 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Wanted: Kill Deep Gnashers]] || style="text-align:center;" | 2 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Wanted: Kill Deep Hippos]] || style="text-align:center;" | 2 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Wanted: Kill Deep Wasps or Menagerie Pollenators]] || style="text-align:center;" | 2 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Wanted: Kill Deep Cocks]] || style="text-align:center;" | 2 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Wanted: Kill Deep Vines]] || style="text-align:center;" | 2 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Wanted: Kill Guardian Drakeworms]] || style="text-align:center;" | 4 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Wanted: Kill Menagerie Donkeys]] || style="text-align:center;" | 2 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Wanted: Kill Osslar Custodians]] || style="text-align:center;" | 2 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Wanted: Kill Osslar Scouts]] || style="text-align:center;" | 2 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Wanted: Kill Mangler Scorpions]] || style="text-align:center;" | 2 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Wanted: Kill Spider Brutes (Elite)]] || style="text-align:center;" | 4 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Wanted: Kill Tough Tigers]] || style="text-align:center;" | 2 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Wanted: Kill Incubator Spiders (Elite)]] || style="text-align:center;" | 4 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Wanted: Kill Friendly Frogs]] || style="text-align:center;" | 1 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Wanted: Kill Forthragarian Engineers]] || style="text-align:center;" | 3 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Wanted: Kill Young Gricklings]] || style="text-align:center;" | 1 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Wanted: Kill Trained Gricklings]] || style="text-align:center;" | 2 || 30 Days || Unknown || Unknown || Unknown || 
+|}

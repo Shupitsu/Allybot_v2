@@ -1,0 +1,16 @@
+===Quest Rewards===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Acquired !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Zhia Lian Event: Grow Pumpkins]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Kill Werewolves in Kur]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Kill the Second Evil Heart]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Pumpkin Rolls]] || style="text-align:center;" | 2 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Put Your Fellow Kin To Rest]] || style="text-align:center;" | 2 || 60 Days || Unknown || Unknown || Unknown || 
+|}

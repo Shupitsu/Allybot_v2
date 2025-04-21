@@ -1,0 +1,25 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Julius Patton]] || Western [[Serbule Hills]] || Loves ([[:Category:Items/EggDish|Egg Dishes]] : 100*)
+|- style="background:#4AF24A;"
+| [[Fluffikins]] || The Animal Outpost in [[Gazluk]] || Loves ([[:Category:Items/EggDish|Egg Dishes]] : 100*)
+|- style="background:#4AF24A;"
+| [[Furlak]] || Rahu City in [[Rahu]] || Loves ([[:Category:Items/EggDish|Egg Dishes]] : 100*)
+|- style="background:#9EF24A;"
+| [[Ferris Blueheart]] || [[Western Council Camp]] || Likes (Item Category Demonic Not Found)
+|- style="background:#9EF24A;"
+| [[Laura Neth]] || The Outpost in Northwestern [[Kur]] || Likes ([[:Category:Items/Edible|Edible Items]])
+|- style="background:#9EF24A;"
+| [[Sir Arif]] || [[Serbule Crypt]] in Serbule || Likes ([[:Category:Items/Edible|Edible Items]])
+|- style="background:#F29E4A;"
+| [[Rita]] || Serbule Keep in [[Serbule]] || Dislikes ([[:Category:Items/Food|Food Items]])
+|- style="background:#F24A4A;"
+| [[Alravesa the All-Hunter]] || Amulna in [[Ilmari]] || Hates ([[:Category:Items/Edible|Edible Items]])
+|- style="background:#F24A4A;"
+| [[Flia]] || East of Serbule Keep in [[Serbule]] || Hates ([[:Category:Items/Edible|Edible Items]])
+|}
+<nowiki>*</nowiki>[[Deviled Egg]] has an effective value different from its base value (130) when gifted as a member of this item category.

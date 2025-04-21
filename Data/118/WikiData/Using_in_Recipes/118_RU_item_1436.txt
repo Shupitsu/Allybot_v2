@@ -1,0 +1,13 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 65 || Hellfreeze || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6668.png</span>&nbsp;[[Demonic Essence]] x10<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5056.png</span>&nbsp;[[Rubywall Crystal]] x25<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6683.png</span>&nbsp;[[Scroll of Demonic Research]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6688.png</span>&nbsp;[[Hellfreeze]] x1
+|-
+| 70 || Strong Hellfreeze Ointment || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6668.png</span>&nbsp;[[Demonic Essence]] x10<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5056.png</span>&nbsp;[[Rubywall Crystal]] x25<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6683.png</span>&nbsp;[[Scroll of Demonic Research]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6689.png</span>&nbsp;[[Strong Hellfreeze Ointment]] x1
+|-
+| 75 || Strong Hellfreeze || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6668.png</span>&nbsp;[[Demonic Essence]] x25<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5056.png</span>&nbsp;[[Rubywall Crystal]] x50<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6683.png</span>&nbsp;[[Scroll of Demonic Research]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6690.png</span>&nbsp;[[Strong Hellfreeze]] x1
+|}

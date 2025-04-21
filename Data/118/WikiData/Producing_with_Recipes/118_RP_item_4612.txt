@@ -1,0 +1,11 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Toolcrafting]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 60 || Reweighting Kit (Elven Method) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6403.png</span>&nbsp;[[Extraordinary Metal Slab]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5301.png</span>&nbsp;[[Masterwork Metal Slab]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5760.png</span>&nbsp;[[Spool of Wire]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5715.png</span>&nbsp;[[Hippogriff Feather]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6583.png</span>&nbsp;[[Linen]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6590.png</span>&nbsp;[[Precision Reweighting Kit]] x2
+|-
+| 65 || Reweighting Kit (Dwarven Method) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5761.png</span>&nbsp;[[Dwarven Weight]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5762.png</span>&nbsp;[[Brass Oddity]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5592.png</span>&nbsp;[[Rhodium]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6590.png</span>&nbsp;[[Precision Reweighting Kit]] x1
+|}

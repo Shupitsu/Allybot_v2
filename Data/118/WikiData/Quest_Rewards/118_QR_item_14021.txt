@@ -1,0 +1,76 @@
+===Quest Rewards===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Acquired !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Zhia Lian Event: Eat a Pumpkin Pie]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Bat Out]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Kill Lord Serbule]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Kill Faces of Death]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Kill Mortimer]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Kill Mummies]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Kill Empusa]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Kill Anhinda]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Kill the Bonfire Puck]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Kill Flapskulls in the Ilmari Desert]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Kill Skeletons in the Fae Realm]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Kill With Your Necro Rat]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Ratkin Tambourines]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Preparing For The Big Party]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: The Unfortunate Cultists]] || style="text-align:center;" | 5 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Kill the Fourth Evil Heart]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Kill the Fifth Evil Heart]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Delivering The Beer]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Help Westley the Elf]] || style="text-align:center;" | 3 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Help Deville the Donkey]] || style="text-align:center;" | 4 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Help Rick the Mirror]] || style="text-align:center;" | 7 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Help Chaf the Gambler]] || style="text-align:center;" | 4 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Bats Eat Bears]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: I Sense a Disturbance]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: I Fancy a Drink]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Sour Pumpkin Soup]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Kill Frogs Naked]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Kill Hexapuses Naked]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Kill Fashnagar Naked]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Bun-Fu Training]] || style="text-align:center;" | 2 || 15 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Find the Lost Scapegoats]] || style="text-align:center;" | 4 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Help Miss Behaved]] || style="text-align:center;" | 1 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Help Miss Fits]] || style="text-align:center;" | 2 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Attack of the World Bosses]] || style="text-align:center;" | 2 || 30 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Zhia Lian Event: Kill the Third Evil Lungs]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|}

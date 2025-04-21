@@ -1,0 +1,15 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#9EF24A;"
+| [[Pickles]] || The [[Sacred Grotto]] in Kur || Likes ([[:Category:Items/Gizmo|Gizmos]] : 300*)
+|- style="background:#9EF24A;"
+| [[Dovie Darbie]] || unknow || Likes ([[:Category:Items/Gizmo|Gizmos]] : 300*)
+|- style="background:#9EF24A;"
+| [[Drummond Stonecurl]] || unknow || Likes ([[:Category:Items/Gizmo|Gizmos]] : 300*)
+|- style="background:#9EF24A;"
+| [[Engineer Crall]] || Near the southeast corner of the map, in the mountains || Likes ([[:Category:Items/Gizmo|Gizmos]] : 300*)<br>Likes (Item Category PowerSource Not Found)
+|}
+<nowiki>*</nowiki>[[Orcish N Core]] has an effective value different from its base value (200) when gifted as a member of this item category.

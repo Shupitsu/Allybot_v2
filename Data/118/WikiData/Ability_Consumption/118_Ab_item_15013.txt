@@ -1,0 +1,14 @@
+====Ability Consumption====
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Icon !! Name !! Consumes !! Skill !! Level !! Consume Chance !! Stick Chance
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3022.png</span> || [[Poison Blade]] || Weak Poisoned Knife (or better) || [[Alchemy]] || 10 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3022.png</span> || [[Poison Blade 2]] || Modest Poisoned Knife (or better) || [[Alchemy]] || 20 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3022.png</span> || [[Poison Blade 3]] || Dangerous Poisoned Knife (or better) || [[Alchemy]] || 30 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3022.png</span> || [[Poison Blade 4]] || Potent Poisoned Knife (or better) || [[Alchemy]] || 40 || Always || Never
+|}

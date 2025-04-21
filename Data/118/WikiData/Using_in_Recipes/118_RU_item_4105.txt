@@ -1,0 +1,45 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 51 || Astounding Volatile Ink || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Astounding Ink]] x5<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5015.png</span>&nbsp;[[Fire Dust]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5887.png</span>&nbsp;[[Astounding Volatile Ink]] x5
+|-
+| 55 || Astounding Holistic Ink || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Astounding Ink]] x5<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6457.png</span>&nbsp;[[Toxic Frog Skin]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5054.png</span>&nbsp;[[Basic Fish Scales]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5887.png</span>&nbsp;[[Astounding Holistic Ink]] x5
+|-
+| 60 || Astounding Caustic Ink || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Astounding Ink]] x5<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6534.png</span>&nbsp;[[Aktaari Bile Gland]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5599.png</span>&nbsp;[[Advanced Wood Glue]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5887.png</span>&nbsp;[[Astounding Caustic Ink]] x5
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Calligraphy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 65 || Calligraphy: Repetition || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Astounding Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6432.png</span>&nbsp;[[Broken Sword]] x1 || Gain access to a combo that deals +100% damage.
+|-
+| 66 || Calligraphy: Repetition+ || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Astounding Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6432.png</span>&nbsp;[[Broken Sword]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Inkstone]] x1 || Gain access to a combo that deals +100% damage. Also gain a passive insight: '''all piercing attacks deal +13% damage'''.
+|-
+| 67 || Calligraphy: Gloam || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Astounding Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6542.png</span>&nbsp;[[Grickling Eye]] x1 || Gain access to a combo that restores 100 armor.
+|-
+| 68 || Calligraphy: Gloam+ || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Astounding Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6542.png</span>&nbsp;[[Grickling Eye]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Inkstone]] x1 || Gain access to a combo that restores 100 armor. Also gain a passive insight: '''Slashing attacks deal +70 damage'''.
+|-
+| 69 || Calligraphy: Stripe || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Astounding Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6558.png</span>&nbsp;[[Striped Pebble]] x1 || Gain access to a combo that causes the target to bleed 300 health over 15 seconds.
+|-
+| 70 || Calligraphy: Stripe+ || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Astounding Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6558.png</span>&nbsp;[[Striped Pebble]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Inkstone]] x1 || Gain access to a combo that causes the target to bleed 300 health over 15 seconds. Also gain a passive insight: '''all slashing attacks deal +12% damage'''.
+|-
+| 71 || Calligraphy: Poison || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Astounding Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5426.png</span>&nbsp;[[Manticore Tail Tip]] x1 || Gain access to a combo that causes the target to suffer 330 Poison damage over 15 seconds.
+|-
+| 72 || Calligraphy: Poison+ || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Astounding Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5426.png</span>&nbsp;[[Manticore Tail Tip]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Inkstone]] x1 || Gain access to a combo that causes the target to suffer 330 Poison damage over 15 seconds. Also gain a passive insight: ''' all attacks generate 15% less Rage in your targets'''.
+|-
+| 73 || Calligraphy: Expectation || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Astounding Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6554.png</span>&nbsp;[[Prank Bombs]] x1 || Gain access to a combo that stuns the target.
+|-
+| 74 || Calligraphy: Expectation+ || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Astounding Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6554.png</span>&nbsp;[[Prank Bombs]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Inkstone]] x1 || Gain access to a combo that stuns the target. Also gain a passive insight: '''Piercing attacks deal +14% damage'''.
+|-
+| 75 || Calligraphy: Vociferous || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Astounding Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6592.png</span>&nbsp;[[Abrasive Sand]] x1 || Gain access to a combo that hits all enemies within 8 meters and deals +150 damage.
+|-
+| 76 || Calligraphy: Vociferous+ || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Astounding Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6592.png</span>&nbsp;[[Abrasive Sand]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Inkstone]] x1 || Gain access to a combo that hits all enemies within 8 meters and deals +150 damage. Also gain a passive insight: '''Armor Repair restores 95 Armor'''.
+|-
+| 77 || Calligraphy: Obstinate || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Astounding Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6546.png</span>&nbsp;[[Ruined Metal Flask]] x1 || Gain access to a combo that heals 150 health.
+|-
+| 78 || Calligraphy: Obstinate+ || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Astounding Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6546.png</span>&nbsp;[[Ruined Metal Flask]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Inkstone]] x1 || Gain access to a combo that heals 150 health. Also gain a passive insight: '''all attacks generate -18% Rage in your targets'''.
+|}

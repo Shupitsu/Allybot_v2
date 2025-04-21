@@ -1,0 +1,11 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Transmutation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 90 || Repair Transmutation Damage (Amulite) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6566.png</span>&nbsp;[[Amulite]] x1<br>[[:Category:Items/Equipment|Magic Item]] x1 || 
+|}
+Also can be used in any recipes which call for:
+*[[:Category:Items/Crystal|Crystals]]

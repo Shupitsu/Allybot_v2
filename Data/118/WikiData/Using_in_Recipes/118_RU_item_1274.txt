@@ -1,0 +1,35 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Turn Junk Into Crystal Ice || [[:Category:Items/VendorTrash|Miscellaneous Junk]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Gadgeteering]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 51 || Rotor || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6402.png</span>&nbsp;[[Marvelous Metal Slab]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5701.png</span>&nbsp;[[Brass Gear]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5476.png</span>&nbsp;[[Tin Gear]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5760.png</span>&nbsp;[[Spool of Wire]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5747.png</span>&nbsp;[[Brass Screws]] x4<br>[[:Category:Items/PowerSource|Power Source]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6705.png</span>&nbsp;[[Mechanized Rotor]] x1
+|-
+| 53 || Dronefire || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5698.png</span>&nbsp;[[Spruce Wood]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5895.png</span>&nbsp;[[Fuel Oil]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6402.png</span>&nbsp;[[Marvelous Metal Slab]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5760.png</span>&nbsp;[[Spool of Wire]] x1<br>[[:Category:Items/PowerSource|Power Source]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6708.png</span>&nbsp;[[Dronefire]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Jewelry Crafting]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 69 || Great Porcine Blast Disperser (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5577.png</span>&nbsp;[[Astounding Metal Slab]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5169.png</span>&nbsp;[[Master Skinning Knife]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5592.png</span>&nbsp;[[Rhodium]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5749.png</span>&nbsp;[[Dwarven T Crystal]] x1<br>[[:Category:Items/Crystal|Crystal]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_17002.png</span>&nbsp;[[Great Porcine Blast Disperser]] x1
+|-
+| 71 || Great Porcine Blast Disperser (Max-Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5577.png</span>&nbsp;[[Astounding Metal Slab]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5169.png</span>&nbsp;[[Master Skinning Knife]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5592.png</span>&nbsp;[[Rhodium]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5749.png</span>&nbsp;[[Dwarven T Crystal]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5702.png</span>&nbsp;[[Glowy Yellow Crystal]] x1<br>[[:Category:Items/Crystal|Crystal]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_17002.png</span>&nbsp;[[Great Porcine Blast Disperser]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Toolcrafting]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 65 || Great Arachnid Mechaharness (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5576.png</span>&nbsp;[[Amazing Metal Slab]] x8<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5750.png</span>&nbsp;[[Dwarven N Core]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5749.png</span>&nbsp;[[Dwarven T Crystal]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6446.png</span>&nbsp;[[Hardened Rivets]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_20001.png</span>&nbsp;[[Great Arachnid Mechaharness]] x1
+|-
+| 75 || Amazing Arachnid Mechaharness (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5577.png</span>&nbsp;[[Astounding Metal Slab]] x8<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5749.png</span>&nbsp;[[Dwarven T Crystal]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6351.png</span>&nbsp;[[Accuracy Circuit]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6446.png</span>&nbsp;[[Hardened Rivets]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_20001.png</span>&nbsp;[[Amazing Arachnid Mechaharness]] x1
+|-
+| 75 || Jeweler's Maintenance Kit (Dwarven Method) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5748.png</span>&nbsp;[[Metal Claw]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5749.png</span>&nbsp;[[Dwarven T Crystal]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5330.png</span>&nbsp;[[Fine Cheesecloth]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6589.png</span>&nbsp;[[Jeweler's Maintenance Kit]] x1
+|}

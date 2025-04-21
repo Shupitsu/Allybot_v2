@@ -1,0 +1,15 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Merriana]] || Hunting Lodge || Loves ([[:Category:Items/MagicDust|Magic Dusts]])
+|- style="background:#4AF24A;"
+| [[Trasen]] || Hunting Lodge || Loves ([[:Category:Items/MagicDust|Magic Dusts]])
+|- style="background:#9EF24A;"
+| [[Daisy (NPC)]] || [[Animal Town]] in Sun Vale || Likes ([[:Category:Items/MagicDust|Magic Dusts]])
+|- style="background:#9EF24A;"
+| [[Sona]] || [[New Prestonbule Cave]] in Gazluk || Likes ([[:Category:Items/Phlogiston|Phlogiston]] : 96*)
+|}
+<nowiki>*</nowiki>[[Decent Phlogiston]] has an effective value different from its base value (48) when gifted as a member of this item category.

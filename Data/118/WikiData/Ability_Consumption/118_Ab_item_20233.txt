@@ -1,0 +1,18 @@
+====Ability Consumption====
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Icon !! Name !! Consumes !! Skill !! Level !! Consume Chance !! Stick Chance
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3319.png</span> || [[Heavy Shot (Orc)]] || Beginner's Dense Arrow (or better) || [[Archery]] || 1 || Always || 0%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3311.png</span> || [[Heavy Multishot (Orc)]] || Beginner's Dense Arrow x5 (or better) || [[Archery]] || 8 || Always || 0%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3319.png</span> || [[Heavy Shot 2 (Orc)]] || Basic Dense Arrow (or better) || [[Archery]] || 15 || Always || 0%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3311.png</span> || [[Heavy Multishot 2 (Orc)]] || Basic Dense Arrow x5 (or better) || [[Archery]] || 25 || Always || 0%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3319.png</span> || [[Heavy Shot 3 (Orc)]] || Advanced Dense Arrow (or better) || [[Archery]] || 30 || Always || 0%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3311.png</span> || [[Heavy Multishot 3 (Orc)]] || Advanced Dense Arrow x5 (or better) || [[Archery]] || 43 || Always || 0%
+|}

@@ -1,0 +1,16 @@
+===Quest Rewards===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Acquired !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Phlogiston Basics]] || style="text-align:center;" | 10 || One time only || [[Kalaba]] || Neutral || Eltibule Keep in [[Eltibule]] || 
+|-
+| [[Sturdy Phlogiston]] || style="text-align:center;" | 15 || One time only || [[Kalaba]] || Neutral || Eltibule Keep in [[Eltibule]] || 
+|-
+| [[More Study Phlogiston]] || style="text-align:center;" | 15 || 7 Days || [[Kalaba]] || Neutral || Eltibule Keep in [[Eltibule]] || 
+|-
+| [[Delivering Phlogiston to Makara]] || style="text-align:center;" | 5 || One time only || [[Kalaba]] || Neutral || Eltibule Keep in [[Eltibule]] || 
+|-
+| [[The Weird Prism]] || style="text-align:center;" | 4 || One time only || [[Makara]] || Neutral || Northeastern [[Ilmari]] || 
+|}

@@ -1,0 +1,11 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Jewelry Crafting]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 85 || Improve Mastercrafted or Prophesied Amulet || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6589.png</span>&nbsp;[[Jeweler's Maintenance Kit]] x1<br>[[:Category:Items/Special:MastercraftedOrForetold|Mastercrafted or Foretold Amulet (Augmented)]] x1 || 
+|-
+| 85 || Improve Mastercrafted or Prophesied Ring || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6589.png</span>&nbsp;[[Jeweler's Maintenance Kit]] x1<br>[[:Category:Items/Special:MastercraftedOrForetold|Mastercrafted or Foretold Ring (Augmented)]] x1 || 
+|}

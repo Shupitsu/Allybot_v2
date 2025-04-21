@@ -1,0 +1,22 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Blacksmithing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 75 || Hammer Organic Armor Back Into Stock Shape || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5074.png</span>&nbsp;[[Perfect Giant Snail Shell]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5181.png</span>&nbsp;[[Ultimate Acidic Cleanser]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5398.png</span>&nbsp;[[Grizlark]] x1<br>[[:Category:Items/OrganicArmor|Organic Armor]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Toolcrafting]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 5 || Dye Organic Armor (1 color) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5178.png</span>&nbsp;[[Rough Tannin Powder]] x1<br>[[:Category:Items/OrganicDyeableArmor|Organic Dyeable Armor]] x1<br>[[:Category:Items/Dye|Dye]] x1 || 
+|-
+| 25 || Dye Organic Armor (2 colors) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5179.png</span>&nbsp;[[Decent Tannin Powder]] x1<br>[[:Category:Items/OrganicDyeableArmor|Organic Dyeable Armor]] x1<br>[[:Category:Items/Dye|Dye]] x1<br>[[:Category:Items/Dye|Dye]] x1 || 
+|-
+| 50 || Dye Organic Armor (3 colors) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5180.png</span>&nbsp;[[Quality Tannin Powder]] x1<br>[[:Category:Items/OrganicDyeableArmor|Organic Dyeable Armor]] x1<br>[[:Category:Items/Dye|Dye]] x1<br>[[:Category:Items/Dye|Dye]] x1<br>[[:Category:Items/Dye|Dye]] x1 || 
+|}
+Also can be used in any recipes which call for:
+*[[:Category:Items/Equipment|Pieces of Equipment]]
+*[[:Category:Items/Head|Items Worn on the Head]]

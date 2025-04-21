@@ -1,0 +1,146 @@
+===Quest Rewards===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Acquired !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Tailoring: A Rough Suit for Raim]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Tailoring: A Decent Suit for Raim]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Tailoring: A Quality Suit for Raim]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Tailoring: An Amazing Suit for Raim]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Tailoring: An Awesome Suit for Raim]] || style="text-align:center;" | 2 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Leatherworking: A Rough Suit for Tantai]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Leatherworking: A Decent Suit for Tantai]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Leatherworking: A Quality Suit for Tantai]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Leatherworking: An Amazing Suit for Tantai]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Leatherworking: An Awesome Suit for Tantai]] || style="text-align:center;" | 2 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Toolcrafting: Autopsy Kits for Kimoc]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Toolcrafting: Inspection Kits for Kimoc]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Toolcrafting: Analysis Kits for Kimoc]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Toolcrafting: Carbon-form Scrutinizer Arrays for Kimoc]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Toolcrafting: Master Whittling Knives for Kimoc]] || style="text-align:center;" | 2 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Cheesemaking: Mild Cheddar Cheese for Serrold]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Cheesemaking: Raclette Cheese for Serrold]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Cheesemaking: Edam Cheese for Serrold]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Cheesemaking: Feta Cheese for Serrold]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Blacksmithing: Simple Armor Stakes for Garad]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Blacksmithing: Vises for Garad]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Blacksmithing: Master Armor Stakes for Garad]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Blacksmithing: Amazing Armor Stakes for Garad]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Carpentry: Shoddy Chairs for Kalrod]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Carpentry: Crude Crates for Kalrod]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Carpentry: Nice Crates for Kalrod]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Carpentry: Amazing Chairs for Kalrod]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Carpentry: Astounding Crates for Kalrod]] || style="text-align:center;" | 2 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Cooking: Venison Jerky for Kinira]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Cooking: Chicken and Broccoli for Kinira]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Cooking: Chicken Casserole for Kinira]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Cooking: Vexfish Lettuce Wraps for Kinira]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Cooking: Evu Mint Pork for Kinira]] || style="text-align:center;" | 2 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Brewing: Pale Ale for Rayar]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Brewing: Goblin Ale for Rayar]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Brewing: Brown Ale for Rayar]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Brewing: Dwarven Stout for Rayar]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Brewing: Porter for Rayar]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Alchemy: Speed Potions for Aceri]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Alchemy: Gur-Horta for Aceri]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Mycology: Boletus Mushroom Smoothies for Loche]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Mycology: Blood Mushroom Smoothies for Loche]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Mycology: Disastrous Spore Bombs for Loche]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Mycology: Nightmarish Spore Bombs for Loche]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Mycology: Ruinous Spore Bombs for Loche]] || style="text-align:center;" | 2 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Flower Arrangement: Violet Bouquets for Delia]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Flower Arrangement: Lumberjack Arrangements for Delia]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Flower Arrangement: Fisherman Arrangements for Delia]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Flower Arrangement: Dandelion Bouquets for Delia]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Jewelry Crafting: Nice Jewelry for Moxie]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Jewelry Crafting: Great Jewelry for Moxie]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Jewelry Crafting: Astounding Jewelry for Moxie]] || style="text-align:center;" | 2 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Fletching: Basic Arrows for Jopol]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Fletching: Expert Arrows for Jopol]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Fletching: Amazing Arrows for Jopol]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Fletching: Awesome Arrows for Jopol]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Candlemaking: Rough Woodland Candles for Torana]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Candlemaking: Decent Floral Candles for Torana]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Candlemaking: Nice Bacon Candles for Torana]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Candlemaking: Amazing Brisk Candles for Torana]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Armorsmithing: A Crude Chainmail Suit for Thedar]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Armorsmithing: A Decent Chainmail Suit for Thedar]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Armorsmithing: A Quality Dwarven Plate Suit for Thedar]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Armorsmithing: An Amazing Orcish Plate Suit for Thedar]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Armorsmithing: An Awesome Orcish Plate Suit for Thedar]] || style="text-align:center;" | 2 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Saddlery: Rough Saddles for Verac]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Saddlery: Decent Reins for Verac]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Saddlery: Quality Saddlebags for Verac]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Saddlery: Amazing Saddles for Verac]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Saddlery: Awesome Reins for Verac]] || style="text-align:center;" | 2 || 20 Hours || Unknown || Unknown || Unknown || 
+|}
