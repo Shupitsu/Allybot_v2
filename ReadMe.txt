@@ -1,3 +1,6 @@
+This is the original work of Alleryn (https://github.com/alleryn/ProjectGorgonWiki-AllyBot), i just take the dev on april 2025 since Alleryn stop maintaining Allybot.
+If Alleryn decide to maintaining the bot again, i will delete this work.
+
 **Summary**:
 AllyBot is a bot for generating and maintaining item pages on the Project: Gorgon wiki, located at wiki.projectgorgon.com. For more information, see http://wiki.projectgorgon.com/wiki/User:Alleryn#AllyBot.
 
