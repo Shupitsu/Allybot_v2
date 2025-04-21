@@ -75,7 +75,7 @@ def main(*args):
 					sectionNumber_ = getSectionNumber(page_, section_)
 					if sectionNumber_ is not None and not sectionNumber_ == -1:
 						sectionText_ = LoadTextFile(dirSection, f_)
-						summary_ = '/* ' + section_ + ' */ Bot added info for game version v' + gameVersion + ', bot version ' + botVersion + '. Contact [[User:Alleryn]] for issues concerning this bot edit.'
+						summary_ = '/* ' + section_ + ' */ Bot added info for game version v' + gameVersion + ', bot version ' + botVersion + '. Contact [[User:Shupitsu]] for issues concerning this bot edit.'
 						editSection(page_, section_, sectionNumber_, sectionText_, summary_)
 					else:
 						outputString_ = "**ERROR**: cannot find section number for " + page_ + '#' + section_ + '.'
@@ -156,13 +156,13 @@ def main(*args):
 					sectionNumber = getSectionNumber(page, section)
 					if sectionNumber is not None and not sectionNumber == -1:
 						sectionText = LoadTextFile(dirLoad, f)
-						summary = 'Bot added info for game version v' + gameVersion + ', bot version ' + botVersion + '. Contact [[User:Alleryn]] for issues concerning this bot edit.'
+						summary = 'Bot added info for game version v' + gameVersion + ', bot version ' + botVersion + '. Contact [[User:Shupitsu]] for issues concerning this bot edit.'
 						editSection(page, section, sectionNumber, sectionText, summary)
 			else:
 				page = f[4:-4].replace('~', '/').replace('@', ':')
 				if page not in completedPageSectionPairs:
 					text = LoadTextFile(dirLoad, f)
-					summary = 'Bot added info for game version v' + gameVersion + ', bot version ' + botVersion + '. Contact [[User:Alleryn]] for issues concerning this bot edit.'
+					summary = 'Bot added info for game version v' + gameVersion + ', bot version ' + botVersion + '. Contact [[User:Shupitsu]] for issues concerning this bot edit.'
 					editPage(page, text, summary)
 
 	for f in os.listdir(dirXPLoad):
@@ -170,7 +170,7 @@ def main(*args):
 			page = 'Xptables/' + f[7:-4]
 			if page not in completedPageSectionPairs:
 				text = LoadTextFile(dirXPLoad, f)
-				summary = 'Bot added info for game version v' + gameVersion + ', bot version ' + botVersion + '. Contact [[User:Alleryn]] for issues concerning this bot edit.'
+				summary = 'Bot added info for game version v' + gameVersion + ', bot version ' + botVersion + '. Contact [[User:Shupitsu]] for issues concerning this bot edit.'
 				editPage(page, text, summary)
 
 	for f in os.listdir(dirRKLoad):
@@ -180,7 +180,7 @@ def main(*args):
 			if not page + '#' + section in completedPageSectionPairs:
 				sectionNumber = getSectionNumber(page, section)
 				sectionText = LoadTextFile(dirRKLoad, f)
-				summary = 'Bot added info for game version v' + gameVersion + ', bot version ' + botVersion + '. Contact [[User:Alleryn]] for issues concerning this bot edit.'
+				summary = 'Bot added info for game version v' + gameVersion + ', bot version ' + botVersion + '. Contact [[User:Shupitsu]] for issues concerning this bot edit.'
 				if sectionNumber == -1:
 					PARAMS_EditPage = {"action": "edit", "format": 'json', "text": sectionText, "title": page, "summary": summary, "bot": '1', "token": CSRF_TOKEN}
 					log('Editing ' + page + '#' + section)
