@@ -1,14 +1,14 @@
 ===Gifting===
 <!-- __GAMEVERSION__ -->
-<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+<!-- This section has been added automatically by a bot. Please contact [[user:Shupitsu]] if you believe this section is in error. -->
 {| {{STDT|mw-collapsible mw-collapsed}}
 ! NPC !! Location !! Preferences
 |- style="background:#4AF24A;"
 | [[Kelim]] || Amulna in [[Ilmari]] || Loves ([[:Category:Items/MoldDirt|Mold and Dirt]] : 50*)
 |- style="background:#4AF24A;"
-| [[Merriana]] || Hunting Lodge in [[Serbule Hills]] || Loves ([[:Category:Items/MagicDust|Magic Dusts]])
+| [[Merriana]] || Hunting Lodge || Loves ([[:Category:Items/MagicDust|Magic Dusts]])
 |- style="background:#4AF24A;"
-| [[Trasen]] || Hunting Lodge in [[Serbule Hills]] || Loves ([[:Category:Items/MagicDust|Magic Dusts]])
+| [[Trasen]] || Hunting Lodge || Loves ([[:Category:Items/MagicDust|Magic Dusts]])
 |- style="background:#4AF24A;"
 | [[Gretchen Salas]] || In or Around Eltibule Keep in [[Eltibule]] || Loves ([[:Category:Items/MoldDirt|Mold and Dirt]] : 50*)
 |- style="background:#4AF24A;"

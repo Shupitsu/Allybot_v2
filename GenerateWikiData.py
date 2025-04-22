@@ -3,7 +3,7 @@ import urllib.request
 import sys
 
 from Util import LoadTextFile, LoadJson, SaveTextFile, MakeDir
-from Generators.WikiHardcoreDeathPenaltyItems import GenerateWikiHardcoreDeathPenaltyItems
+#from Generators.WikiHardcoreDeathPenaltyItems import GenerateWikiHardcoreDeathPenaltyItems
 from Generators.WikiFood import GenerateWikiFood
 from Generators.WikiAttributes import GenerateWikiAttributes
 from Generators.WikiItemAbilityData import GenerateWikiItemAbilityData
@@ -36,7 +36,7 @@ AttributeDict = LoadJson(dirLoad, "attributes.json", True)
 XpTableDict = LoadJson(dirLoad, "xptables.json", True)
 
 # Use ~ for slash in filenames and @ for :
-SaveTextFile(dirSave, botVersion + '_Hardcore_Mode#List_of_Items_Usable_Only_in_Hardcore_Mode.txt', GenerateWikiHardcoreDeathPenaltyItems(ItemDict))
+#SaveTextFile(dirSave, botVersion + '_Hardcore_Mode#List_of_Items_Usable_Only_in_Hardcore_Mode.txt', GenerateWikiHardcoreDeathPenaltyItems(ItemDict))
 ediblesSource, mealsSource, snacksSource, instantsSource = GenerateWikiFood(ItemDict, RecipeDict)
 SaveTextFile(dirSave, botVersion + '_Gourmand~Edibles#Edibles.txt', ediblesSource)
 SaveTextFile(dirSave, botVersion + '_Gourmand~Meals#Meals.txt', mealsSource)

@@ -1,12 +1,12 @@
 ===Quest Fulfillment===
 <!-- __GAMEVERSION__ -->
-<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+<!-- This section has been added automatically by a bot. Please contact [[user:Shupitsu]] if you believe this section is in error. -->
 {| {{STDT|sortable mw-collapsible mw-collapsed}}
 ! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
 |-
 | [[Powdery Secretions]] || 5 (Collect) || One time only || [[Yavazek]] || Neutral || [[Animal Town]] in Sun Vale || 
 |-
-| [[Powdered Mammal_(Quest)]] || 5 (Collect) || One time only || [[Agrashab]] || Neutral || [[Fae Realm]] || 
+| [[Powdered Mammal_(Quest)]] || 5 (Collect) || One time only || [[Agrashab]] || Neutral || Crumbling ruins near center of map. || 
 |-
 | [[Guild: Reclaiming Lydia (25-person)]] || 25 (Amass with Guild) || 5 Minutes || [[Percy Evans]] || Unknown || Northeastern [[Eltibule]] || 
 |-

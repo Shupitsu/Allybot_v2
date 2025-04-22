@@ -1,6 +1,6 @@
 === [[Gourmand/Edibles|Edibles]] ===
 <!-- __GAMEVERSION__ -->
-<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+<!-- This section has been added automatically by a bot. Please contact [[user:Shupitsu]] if you believe this section is in error. -->
 {| {{STDT|sortable mw-collapsible <includeonly>mw-collapsed</includeonly>}} style="text-align: center"
 ! Item !! Food Type !! Food Level !! Recipe Type !! Recipe Level !! Gourmand Requirement
 |-

@@ -1,6 +1,6 @@
 ===Gifting===
 <!-- __GAMEVERSION__ -->
-<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+<!-- This section has been added automatically by a bot. Please contact [[user:Shupitsu]] if you believe this section is in error. -->
 {| {{STDT|mw-collapsible mw-collapsed}}
 ! NPC !! Location !! Preferences
 |- style="background:#9EF24A;"
@@ -22,7 +22,7 @@
 |- style="background:#9EF24A;"
 | [[Velkort]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/CorpseTrophy|Corpse Trophies]])
 |- style="background:#F24A4A;"
-| [[Agrashab]] || [[Fae Realm]] || Hates ([[:Category:Items/TrollFlesh|Troll Flesh]] : 250*)
+| [[Agrashab]] || Crumbling ruins near center of map. || Hates ([[:Category:Items/TrollFlesh|Troll Flesh]] : 250*)
 |- style="background:#F24A4A;"
 | [[Helena Veilmoor]] || [[Hogan's Keep]] in Eltibule || Hates ([[:Category:Items/VendorTrash|Vendor Trash]])<br>Hates ([[:Category:Items/CorpseTrophy|Corpse Trophies]])
 |- style="background:#F24A4A;"

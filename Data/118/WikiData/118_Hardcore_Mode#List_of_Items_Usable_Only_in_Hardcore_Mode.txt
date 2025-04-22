@@ -1,6 +1,6 @@
 === List of Items Usable Only in Hardcore Mode ===
 <!-- __GAMEVERSION__ -->
-<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] or [[user:Shupitsu]] who keeps the bot up to date (check page history for link to user page with contact info) if you believe this section is in error. -->
+<!-- This section has been added automatically by a bot. Please contact [[user:Shupitsu]] if you believe this section is in error. -->
 <div style="column-count:5;-moz-column-count:5;-webkit-column-count:5">
 *{{Item|Boots of the Winter Court}}
 *{{Item|Great Boots of the Winter Court}}
