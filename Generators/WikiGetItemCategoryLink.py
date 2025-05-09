@@ -1738,6 +1738,10 @@ def getItemCategoryLink(keyword):
 		plural = ""
 	elif keyword == "YellowPerch":
 		plural = "Yellow Perch"
+	elif keyword == "Tongue":
+		plural = "Tongues"
+	elif keyword == "WhittlingRecipe":
+		plural = "Whittling Recipes"
 	if plural:
 		return '[[:Category:Items/' + keyword + '|' + plural + ']]'
 	else:
