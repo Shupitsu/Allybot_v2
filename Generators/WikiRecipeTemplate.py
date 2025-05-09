@@ -4,8 +4,8 @@ def GenerateWikiRecipeTemplate(RecipeList, RecipeDict, ItemDict, RecipeSourcesDi
 		if "Keywords" in RecipeDict[recipe] and ("Lint_NotLearnable" in RecipeDict[recipe]["Keywords"] or "Lint_NotObtainable" in RecipeDict[recipe]["Keywords"]):
 			continue
 		automaticFromSkill = True
-		for acquisition in RecipeSourcesDict[recipe]:
-			if acquisition["Type"] != "AutomaticFromSkill":
+		for acquisition in RecipeSourcesDict[recipe]['entries']:
+			if acquisition["type"] != "AutomaticFromSkill":
 				automaticFromSkill = False
 		if not automaticFromSkill:
 			recipeName = RecipeDict[recipe]["Name"]
