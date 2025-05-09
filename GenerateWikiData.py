@@ -3,7 +3,7 @@ import urllib.request
 import sys
 
 from Util import LoadTextFile, LoadJson, SaveTextFile, MakeDir
-#from Generators.WikiHardcoreDeathPenaltyItems import GenerateWikiHardcoreDeathPenaltyItems
+# from Generators.WikiHardcoreDeathPenaltyItems import GenerateWikiHardcoreDeathPenaltyItems
 from Generators.WikiFood import GenerateWikiFood
 from Generators.WikiAttributes import GenerateWikiAttributes
 from Generators.WikiItemAbilityData import GenerateWikiItemAbilityData
@@ -11,7 +11,9 @@ from Generators.WikiItemFavorData import GenerateWikiItemFavorData
 from Generators.WikiItemQuestData import GenerateWikiItemQuestData
 from Generators.WikiItemRecipeData import GenerateWikiItemRecipeData, GenerateWikiKeywordRecipeData
 from Generators.WikiXpTableData import GenerateWikiXpTableData
-from GlobalStrings import Ab_String, Fv_String, QR_String, QF_String, RU_String, RP_String, RK_String, XP_String
+# from Generators.WikiRecipeToItem import GenerateWikiRecipeToItemData
+from GlobalStrings import Ab_String, Fv_String, QR_String, QF_String, RU_String, RP_String, RK_String, XP_String, \
+	RI_String
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
@@ -76,6 +78,7 @@ dirRUSave = dirSave + '/' + RU_String
 dirRPSave = dirSave + '/' + RP_String
 dirRKSave = dirSave + '/' + RK_String
 dirXPSave = dirSave + '/' + XP_String
+# dirRISave = dirSave + '/' + RI_String
 MakeDir(dirAbSave)
 MakeDir(dirFvSave)
 MakeDir(dirQRSave)
@@ -84,6 +87,7 @@ MakeDir(dirRUSave)
 MakeDir(dirRPSave)
 MakeDir(dirRKSave)
 MakeDir(dirXPSave)
+#MakeDir(dirRUSave)
 
 recipeKeywordSkips = {"Crystal", "CheapMeat", "Equipment", "MainHand", "OffHand", "Head", "Chest", "Legs", "Hands", "Feet", "Necklace", "Ring", "Shield"}
 

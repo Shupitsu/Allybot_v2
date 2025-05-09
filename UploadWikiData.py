@@ -69,6 +69,7 @@ def main(*args):
 	def UploadSectionForEachItemPage(sectionName, dirSection):
 		for f_ in os.listdir(dirSection):
 			if f_.endswith('.txt'):
+				print(f_)
 				page_ = ItemDict[f_[7:-4]]["Page"]
 				section_ = sectionName
 				if not page_ + '#' + section_ in completedPageSectionPairs:
@@ -220,7 +221,7 @@ def main(*args):
 	log('Archiving Python files')
 	ArchivePyFiles('.')
 	ArchivePyFiles('./Generators')
-	os.rename(completedSectionsFullPath, dirBase + './CompletedSections.txt')
+	os.rename(completedSectionsFullPath, dirBase + '/CompletedSections.txt')
 
 	log('Archiving Data')
 	oldVersion = str(int(botVersion)-1)
