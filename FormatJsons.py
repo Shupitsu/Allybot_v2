@@ -103,7 +103,7 @@ NpcJson["NPC_Cinnamon"]["Link"] = "[[Cinnamon the rabbit]]"
 NpcJson["NPC_Sugar"]["Link"] = "[[Sugar (NPC)]]"
 NpcJson["NPC_Daisy"]["Link"] = "[[Daisy (NPC)]]"
 for npc in NpcJson:
-	if npc in ["NPC_Velkort_Halloween", "AdminTestNpc", "NPC_Placeholder", "NPC_AuShin", "NPC_Vughal", "WerewolfAltar", "NPC_Gonchakal", "NPC_SpiderPlaceholder", "TapestryInnChest", "NPC_AkhisasRepresentative", "KhyrulekMementoChest", "IvynsChest", "WardenStorageChest", "GuildAltar", "RigersChest", "KurMountainsWorkOrderSign", "DalvosChest", "TutorialChest", "WinterCourtEntranceChest", "FaeRealm1WorkOrderSign", "Desert1WorkOrderSign", "CasinoWorkOrderSign", "RahuWorkOrderSign", "SunValeWorkOrderSign", "EltibuleWorkOrderSign", "SerbuleWorkOrderSign"]:
+	if npc in ["NPC_Velkort_Halloween", "AdminTestNpc", "NPC_Placeholder", "NPC_AuShin", "NPC_Vughal", "WerewolfAltar", "NPC_Gonchakal", "NPC_SpiderPlaceholder", "TapestryInnChest", "NPC_AkhisasRepresentative", "KhyrulekMementoChest", "IvynsChest", "WardenStorageChest", "GuildAltar", "RigersChest", "KurMountainsWorkOrderSign", "DalvosChest", "TutorialChest", "WinterCourtEntranceChest", "FaeRealm1WorkOrderSign", "Desert1WorkOrderSign", "CasinoWorkOrderSign", "RahuWorkOrderSign", "SunValeWorkOrderSign", "EltibuleWorkOrderSign", "SerbuleWorkOrderSign", "VidariaWorkOrderSign"]:
 		NpcJson[npc]["Blacklisted"] = True
 	if npc in NpcLocJson:
 		NpcJson[npc]["Location"] = NpcLocJson[npc]["Location"]
@@ -215,7 +215,7 @@ for recipe in RecipeJson:
 					if ItemJson[item]["InternalName"] == resultInternal:
 						resultCode = int(item[5:])
 						break
-			elif resultEffect.startswith('TSysCraftedEquipment') or resultEffect.startswith('GiveTSysItem') or resultEffect.startswith('Whittling'):
+			elif resultEffect.startswith('TSysCraftedEquipment') or resultEffect.startswith('GiveTSysItem') or resultEffect.startswith('Whittling') or resultEffect.startswith('CraftSimpleTSysItem'):
 				expectResults = False
 				if "ProtoResultItems" not in RecipeJson[recipe]:
 					print(RecipeJson[recipe]["Name"] + ' has TSysCraftedEquipment or GiveTSysItem or Whittling but no ProtoResultItems.')

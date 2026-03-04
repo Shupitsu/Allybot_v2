@@ -1,4 +1,11 @@
+V2.1 :
+
+    FormatJsons.py
+        line 218 : add a test for resultEffect.startswith('CraftSimpleTSysItem') : without this, the Item on the wiki didn't show the recipe to craft them.
+
 V2 :
+
+
     _JsonCacher.py
         * line 48 add header variable
         * line 58 : create req variable
