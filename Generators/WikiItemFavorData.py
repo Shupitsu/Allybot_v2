@@ -64,10 +64,11 @@ def GenerateWikiItemFavorData(target, targetDict, NpcDict):
 		def prefMagText(mag):
 			if mag <= -2:
 				return 'Hates'
-			elif mag <= -1:
+			elif mag <= -0.1:
 				return 'Dislikes'
-			elif mag < 1:
-				print("ERROR. Preference magnitude between -1 and 1 detected.  Unsure what text these values take, as they were conjectured not to exist")
+			elif mag == 0:
+				print("ERROR. Preference magnitude (love gift,..., hates gift) between -1 and 1 detected.  Unsure what text these values take, as they were conjectured not to exist")
+				print("if npc name is xxxWorkOrderSign add it to the blacklisted npc in FormatJson.py (actually line 106)")
 			elif mag <= 2:
 				return 'Likes'
 			else:
@@ -88,6 +89,8 @@ def GenerateWikiItemFavorData(target, targetDict, NpcDict):
 		favorSource += '{| {{STDT|mw-collapsible mw-collapsed}}\n! NPC !! Location !! Preferences\n'
 		keywordFlag = False
 		for npcPreferenceTuple in npcPrefList:
+			print(npcPreferenceTuple)
+			print(npcPreferenceTuple[2])
 			prefList = npcPreferenceTuple[2]
 			prefTextList = []
 			for pref in prefList:

@@ -25,7 +25,9 @@ def GenerateWikiItemQuestData(target, targetDict, QuestDict, NpcDict):
 				#activate the following print if there is a location error.
 				# print("1")
 				# print(favorNpc)
+				# print("1.1")
 				# print(NpcDict[favorNpc]["Location"])
+				# print("1.2")
 
 				questNpc = NpcDict[favorNpc]["Link"]
 				location = NpcDict[favorNpc]["Location"]
