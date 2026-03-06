@@ -116,6 +116,8 @@ def GenerateWikiItemRecipeData(target, targetDict, RecipeDict, keywordSkips):
 					ingredientCodes.append(ingredient['ItemCode'])
 		if ingredientCodes or ingredientKeys:
 			addRecipe(recipe, targetIsIngredientRecipeDict, RecipeDict)
+
+		# ResultItem contain information from ProtoResultItem. Copy/Paste done into formatJsons.py
 		for result in RecipeDict[recipe]['ResultItems']:
 			if "ItemCode" in result:
 				if str(result['ItemCode']) == targetCode:
