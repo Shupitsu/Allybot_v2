@@ -62,3 +62,10 @@ If the process is interrupted, the created file CompletedSections.txt contains a
 After everything uploads successfully, a few cleanup operations happen, archiving the python files and previous version's data, and finally updating botVersion.txt so that AllyBot is ready for next time.
 
 *Or after an update to the bot itself:* Run Backup.py to backup changes to the python code (to \Backups) then do steps 2-6 above.
+
+
+******** If Items Doesn't Show Some Informations ********
+
+It happened to some item before, they were not showing "Producing with recipe"
+Check the resultEffect of the recipe and search for it into formatJson.py
+If the resultEffect is not found, you should add it.

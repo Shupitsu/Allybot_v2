@@ -1,3 +1,6 @@
+V2.1.1 :
+    add comments in WikiItemRecipeData.py and modify ReadMe.txt
+
 V2.1 :
 
     FormatJsons.py
